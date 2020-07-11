@@ -1,10 +1,12 @@
-### Hi there 👋 
-
-<div align=center>
+<div align=right>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdpudpu)](https://hits.seeyoufarm.com)
 
 </div>
+
+### Hi there 👋 
+
+
 
 <!--
 **dpudpu/dpudpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
