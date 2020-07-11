@@ -12,7 +12,7 @@
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Daejun-Bae/100004092244167)](https://www.facebook.com/people/Daejun-Bae/100004092244167) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpudpu11@gmail.com)](mailto:dpudpu11@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/-Blogger-1877f2?style=flat-square&logo=blogger&logoColor=#FF5722&link=https://dublin-java.tistory.com/)](https://dublin-java.tistory.com/) 
+[![Blog Badge](https://img.shields.io/badge/-Blog-orange?style=flat-square&logo=blogger&logoColor=white&link=https://dublin-java.tistory.com/)](https://dublin-java.tistory.com/) 
 </div>
 
 
