@@ -5,6 +5,9 @@
 </div>
 
 ### Hi there 👋 
+![dpudpu's github stats](https://github-readme-stats.vercel.app/api?username=dpudpu&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpudpu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align=center>
